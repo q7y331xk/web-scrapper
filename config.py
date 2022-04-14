@@ -1,6 +1,6 @@
 # OPTIONS
 PAGE_START = 1
-PAGE_MAX = 1  # ~500
+PAGE_MAX = 500  # ~500
 
 # RDS
 RDS_HOST = 'oden-second-hands-selling.ctj9mgachfi3.ap-northeast-2.rds.amazonaws.com'
